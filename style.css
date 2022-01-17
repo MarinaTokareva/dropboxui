@@ -1,5 +1,6 @@
 .bar {
     background-color: #444c63;
+    height: 100vh;
 }
 
 .list-group-item {
@@ -9,7 +10,24 @@
 }
 
 .ico {
-    margin: 20px 45%;
+    height: 10%;
+    width: 30%;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 5px;
+}
+
+.gallery {
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-thumbnail {
+    margin: 5px;
 }
 
 
